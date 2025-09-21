@@ -1,7 +1,6 @@
 **ArrayExpress Processor for TriGen Algorithm**
 
 Herramienta bioinformática que automatiza el análisis de experimentos transcriptómicos de la base de datos ArrayExpress: descarga, preprocesa y transforma los datos de expresión génica para hacerlos compatibles con el algoritmo de triclustering TriGen. Incluye visualizaciones de resultados e integración vía  consumo API con PantherDB para análisis de enriquecimiento funcional (Gene Ontology). 
-GitHub.
 
 Tecnologías: R (app tipo Shiny) con lógica auxiliar en helpers.R. El repositorio contiene además material de soporte (presentación, memoria y vídeo).
 
